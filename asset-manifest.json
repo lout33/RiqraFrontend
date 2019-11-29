@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/lout33/DeployRiqraFrontend/static/css/main.423d3107.chunk.css",
-    "main.js": "/lout33/DeployRiqraFrontend/static/js/main.34b1d24f.chunk.js",
-    "main.js.map": "/lout33/DeployRiqraFrontend/static/js/main.34b1d24f.chunk.js.map",
-    "runtime-main.js": "/lout33/DeployRiqraFrontend/static/js/runtime-main.e5e83385.js",
-    "runtime-main.js.map": "/lout33/DeployRiqraFrontend/static/js/runtime-main.e5e83385.js.map",
-    "static/js/2.28b8d914.chunk.js": "/lout33/DeployRiqraFrontend/static/js/2.28b8d914.chunk.js",
-    "static/js/2.28b8d914.chunk.js.map": "/lout33/DeployRiqraFrontend/static/js/2.28b8d914.chunk.js.map",
-    "index.html": "/lout33/DeployRiqraFrontend/index.html",
-    "precache-manifest.2cdda4c7a456a3e3a9bf78d5cfeacfc2.js": "/lout33/DeployRiqraFrontend/precache-manifest.2cdda4c7a456a3e3a9bf78d5cfeacfc2.js",
-    "service-worker.js": "/lout33/DeployRiqraFrontend/service-worker.js",
-    "static/css/main.423d3107.chunk.css.map": "/lout33/DeployRiqraFrontend/static/css/main.423d3107.chunk.css.map",
-    "static/media/car.svg": "/lout33/DeployRiqraFrontend/static/media/car.2707e674.svg",
-    "static/media/minus.svg": "/lout33/DeployRiqraFrontend/static/media/minus.7bb7158b.svg",
-    "static/media/plus.svg": "/lout33/DeployRiqraFrontend/static/media/plus.511f5b80.svg",
-    "static/media/success.svg": "/lout33/DeployRiqraFrontend/static/media/success.6c1aa4dd.svg",
-    "static/media/truck.svg": "/lout33/DeployRiqraFrontend/static/media/truck.2bfd658f.svg"
+    "main.css": "/DeployRiqraFrontend/static/css/main.423d3107.chunk.css",
+    "main.js": "/DeployRiqraFrontend/static/js/main.34b1d24f.chunk.js",
+    "main.js.map": "/DeployRiqraFrontend/static/js/main.34b1d24f.chunk.js.map",
+    "runtime-main.js": "/DeployRiqraFrontend/static/js/runtime-main.2b300ea4.js",
+    "runtime-main.js.map": "/DeployRiqraFrontend/static/js/runtime-main.2b300ea4.js.map",
+    "static/js/2.2549715f.chunk.js": "/DeployRiqraFrontend/static/js/2.2549715f.chunk.js",
+    "static/js/2.2549715f.chunk.js.map": "/DeployRiqraFrontend/static/js/2.2549715f.chunk.js.map",
+    "index.html": "/DeployRiqraFrontend/index.html",
+    "precache-manifest.69248193ffeb2bb5c7c92ffb0a172ed9.js": "/DeployRiqraFrontend/precache-manifest.69248193ffeb2bb5c7c92ffb0a172ed9.js",
+    "service-worker.js": "/DeployRiqraFrontend/service-worker.js",
+    "static/css/main.423d3107.chunk.css.map": "/DeployRiqraFrontend/static/css/main.423d3107.chunk.css.map",
+    "static/media/car.svg": "/DeployRiqraFrontend/static/media/car.2707e674.svg",
+    "static/media/minus.svg": "/DeployRiqraFrontend/static/media/minus.7bb7158b.svg",
+    "static/media/plus.svg": "/DeployRiqraFrontend/static/media/plus.511f5b80.svg",
+    "static/media/success.svg": "/DeployRiqraFrontend/static/media/success.6c1aa4dd.svg",
+    "static/media/truck.svg": "/DeployRiqraFrontend/static/media/truck.2bfd658f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5e83385.js",
-    "static/js/2.28b8d914.chunk.js",
+    "static/js/runtime-main.2b300ea4.js",
+    "static/js/2.2549715f.chunk.js",
     "static/css/main.423d3107.chunk.css",
     "static/js/main.34b1d24f.chunk.js"
   ]
