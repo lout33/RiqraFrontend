@@ -1,0 +1,11 @@
+Todo:
+Usar un toglee para el esconder y mostrar los botones de la lista
+https://stackoverflow.com/questions/152975/how-do-i-detect-a-click-outside-an-element
+Ademas de ofuscars los items
+https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/brightness
+
+Problema con el codigo que imprimo, ya que al mandar dos productos se hacen dos pedidos 
+y el contador recorre 2 digitos y entonces me entrega un codigo discontinuo;
+
+Backend:
+Hacer solo un id por orden , apesar de que esta contenga muchos productos;
